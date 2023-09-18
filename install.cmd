@@ -1,0 +1,1 @@
+python -m venv .venv && .venv\Scripts\activate && pip install --upgrade setuptools wheel && pip install -r requirements.txt && pythonw main.pyw
